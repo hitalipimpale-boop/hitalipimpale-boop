@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: 
+name: Hitali Pimpale
 role: Full-Stack Developer
 location: Pune, India
 currently_working_on: Nukaazo - A Hyperlocal E-commerce Platform
